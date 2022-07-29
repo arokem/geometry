@@ -39,7 +39,7 @@ def calculate_circ(radius):
     Examples
     --------
     >>> calculate_circ(1)
-    3.141592653589793
+    6.283185307179586
     """
     
     circ = 2 * np.pi * radius
