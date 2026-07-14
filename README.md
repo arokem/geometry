@@ -1,6 +1,6 @@
 # Geometry 
 
-This is a library of geometric calculations for neuroimaging. 
+This is a library of geometric calculations for neuroimaging. For now, just circles.  
 
 ## Contributing
 
