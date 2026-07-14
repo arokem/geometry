@@ -4,7 +4,9 @@ This is a library of geometric calculations for neuroimaging.
 
 ## Contributing
 
-We welcome contributions from the community. Please create a fork of the project on GitHub and use a pull request to propose your changes. 
+We welcome contributions from the community. Please create a fork of the project on GitHub and use a pull request to propose your changes.
+
+Before proposing a change through a pull request, please post an issue to Github.
 
 ## Getting help
 
