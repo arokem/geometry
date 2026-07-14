@@ -12,3 +12,6 @@ Before proposing a change through a pull request, please post an issue to Github
 
 Please post issues on the project GitHub page. Or don't, up to you. We don't care what you do and we aren't going to maintain this repo.
 
+## Muye's Edits
+
+I just add some random edits
