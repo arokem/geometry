@@ -10,5 +10,5 @@ Before proposing a change through a pull request, please post an issue to Github
 
 ## Getting help
 
-Please post issues on the project GitHub page. Or don't, up to you. I would though.
+Please post issues on the project GitHub page. Or don't, up to you. We don't care what you do and we aren't going to maintain this repo.
 
