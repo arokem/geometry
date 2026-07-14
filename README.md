@@ -8,5 +8,5 @@ We welcome contributions from the community. Please create a fork of the project
 
 ## Getting help
 
-Please post issues on the project GitHub page. 
+Please post issues on the project GitHub page. Or don't, up to you. 
 
